@@ -1,0 +1,18 @@
+body {
+    height: 90vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    border: solid black 2px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
